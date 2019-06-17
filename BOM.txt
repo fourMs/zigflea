@@ -1,0 +1,34 @@
+Partlist
+
+Exported from ZigFlea_Shield.sch at 29.07.2011 08:36:20
+
+EAGLE Version 5.11.0 Copyright (c) 1988-2010 CadSoft
+
+Part     Value          Device       Package
+
+A1       TPTP06SQ       TPTP06SQ     TP06SQ
+C1       0.1uF          C-EUC0603    C0603
+C2       0.1uF          C-EUC0603    C0603
+C3       1uF            C-EUC0603    C0603
+C4       0.1uF          C-EUC0603    C0603
+C5       0.1uF          C-EUC0603    C0603
+C6       6.8pF          C-EUC0603    C0603
+C7       6.8pF          C-EUC0603    C0603
+C8       10pF           C-EUC0603    C0603
+C9       1pF            C-EUC0603    C0603
+L1       1.8nH          SPOLE0603    SPOLE0603
+L2       1.8nH          SPOLE0603    SPOLE0603
+L3       3.9nH          SPOLE0603    SPOLE0603
+L4       3.9nH          SPOLE0603    SPOLE0603
+RD1      PINHEAD1_1MM   PINHEAD1_1MM PINHEAD_1MM
+RE4      PINHEAD1_1MM   PINHEAD1_1MM PINHEAD_1MM
+U$1      MC13201        MC13201      MC13201
+U$2      16MHZ          16MHZ        16MHZ
+U$3      BALUN          BALUN        BALUN
+U$4      TPTP06SQ       TPTP06SQ     TP06SQ
+U$5      PINHEAD3_1MM   PINHEAD3_1MM PINHEAD3_1MM
+U$6      PINHEAD2_1MM   PINHEAD2_1MM PINHEAD2_1MM
+U$8      PINHEAD2_1MM   PINHEAD2_1MM PINHEAD2_1MM
+
+Exact Mouser part numbers for this project are put together under this link:
+https://no.mouser.com/ProjectManager/ProjectDetail.aspx?AccessID=4d473efe46
